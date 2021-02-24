@@ -1,5 +1,7 @@
 # How to run
 
+TL;DR go to https://github.com/ilonaleonova/buggy/actions and view the last executed workflow
+
 - Make sure you have Node.JS https://nodejs.org/en/download/
 - Navigate to the repository in your favourite shell, e.g. `cd ~/src/buggy`
 - Run `npm install`
