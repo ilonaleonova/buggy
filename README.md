@@ -1,6 +1,6 @@
 # What is the test approach?
 
-Read it here: <wiki link>
+Read it here: https://github.com/ilonaleonova/buggy/wiki/Testing-Approach
   
 # Where are discovered bugs?
 
