@@ -1,6 +1,14 @@
-# How to run
+# What is the test approach?
 
-TL;DR go to https://github.com/ilonaleonova/buggy/actions and view the last executed workflow
+Read it here: <wiki link>
+  
+# Where are discovered bugs?
+
+https://github.com/ilonaleonova/buggy/issues?q=is%3Aissue+label%3Abug
+
+# How to run automated tests?
+
+**TL;DR** go to https://github.com/ilonaleonova/buggy/actions and view the last executed workflow; alternatively:
 
 - Make sure you have Node.JS https://nodejs.org/en/download/
 - Navigate to the repository in your favourite shell, e.g. `cd ~/src/buggy`
